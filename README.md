@@ -2,7 +2,7 @@
 ## heading 2
 ### heading 3
 
-list
-*1
-*2
-*3
+list:
+* 1
+* 2
+* 3
